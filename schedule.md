@@ -14,14 +14,14 @@ One row per post. Times are 7:00 PM Central unless noted. Status values:
 | 2026-11-17 Tue | instagram-2026-11/posts/06-schedule-c-export.md | -2130822273553053628 | scheduled |
 | 2026-11-19 Thu | instagram-2026-11/posts/07-switching-from-vagaro-or-glossgenius.md (prices confirmed against maravoa-landing origin/main compare text Nov 12; Metricool create failed Nov 12, retried Nov 13, see note) | 7203855157052392369 | scheduled |
 | 2026-11-22 Sun | instagram-2026-11/posts/08-no-show-hour.md (created Nov 13, see note) | -7563914234321744728 | scheduled |
-| 2026-11-23 Mon | instagram-2026-11-23/posts/01-rebook-at-checkout.md | -4069639774729125331 | draft |
-| 2026-11-25 Wed | instagram-2026-11-23/posts/02-my-openings.md | 6508009849814076050 | draft |
-| 2026-11-27 Fri | instagram-2026-11-23/posts/03-gift-cards.md | -4307742137640202784 | draft |
-| 2026-11-29 Sun | instagram-2026-11-23/posts/04-studio-calendar.md | -3854265663435748474 | draft |
-| 2026-11-30 Mon | instagram-2026-11-30/posts/05-revenue-by-professional.md | -4416905156426383285 | draft |
-| 2026-12-02 Wed | instagram-2026-11-30/posts/06-invite-a-stylist.md | 727322464035491506 | draft |
-| 2026-12-04 Fri | instagram-2026-11-30/posts/07-on-the-books.md | 2012404153589648458 | draft |
-| 2026-12-06 Sun | instagram-2026-11-30/posts/08-four-plans.md | -7807725445819121162 | draft |
+| 2026-11-23 Mon | instagram-2026-11-23/posts/01-rebook-at-checkout.md | -4069639774729125331 | scheduled |
+| 2026-11-25 Wed | instagram-2026-11-23/posts/02-my-openings.md | 6508009849814076050 | scheduled |
+| 2026-11-27 Fri | instagram-2026-11-23/posts/03-gift-cards.md | -4307742137640202784 | scheduled |
+| 2026-11-29 Sun | instagram-2026-11-23/posts/04-studio-calendar.md | -3854265663435748474 | scheduled |
+| 2026-11-30 Mon | instagram-2026-11-30/posts/05-revenue-by-professional.md | -4416905156426383285 | scheduled |
+| 2026-12-02 Wed | instagram-2026-11-30/posts/06-invite-a-stylist.md | 727322464035491506 | scheduled |
+| 2026-12-04 Fri | instagram-2026-11-30/posts/07-on-the-books.md | 2012404153589648458 | scheduled |
+| 2026-12-06 Sun | instagram-2026-11-30/posts/08-four-plans.md | -7807725445819121162 | scheduled |
 
 
 Nov 15, 2026: the eight rows from 2026-11-23 to 2026-12-06 were created as Metricool drafts (7:00 PM Central) by a Hal session worker for Marshall's Nov 19 to 28 trip, awaiting Marshall's approval.
@@ -35,3 +35,5 @@ Nov 13 Hal session (Marshall's app request, 8:28 AM Central: "add the 2 missing 
 Nov 13, 2026: Marshall approved the Nov 16 to 22 batch, "Yes, schedule all 4" (approver Marshall; recorder Hal side session, Claude Opus 5.5). 06, 07 and 08 switched from draft to scheduled in Metricool at about 11:57 AM Central, read back as scheduled for 7:00 PM Central on Nov 17, 19 and 22, content unchanged. 05 (Mon Nov 16) did not switch: the update was blocked by the session's auto-mode permission check, so it stays a draft and needs Marshall to schedule it in Metricool or allow the update.
 
 Nov 13, 2026, about 12:57 PM Central: 05 (Mon Nov 16) scheduled by the Hal session after Marshall left auto mode ("Leaving auto, retry"). Metricool returned draft false, new post id 427339656, same uuid, Mon Nov 16 7:00 PM Central, content unchanged (as reported by the Hal session; this record was written without a Metricool read). The full Nov 16 to 22 batch is now scheduled.
+
+Nov 15, 2026, about 10:00 AM Central: Marshall approved the Nov 23 to Dec 6 batch, "Yes, schedule all 8" (approver Marshall; recorder Hal session, Claude Opus 5.5). All eight switched from draft to scheduled in Metricool; every update returned draft false with the same uuid, 7:00 PM Central, content unchanged.
