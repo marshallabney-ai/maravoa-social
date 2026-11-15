@@ -14,6 +14,17 @@ One row per post. Times are 7:00 PM Central unless noted. Status values:
 | 2026-11-17 Tue | instagram-2026-11/posts/06-schedule-c-export.md | -2130822273553053628 | scheduled |
 | 2026-11-19 Thu | instagram-2026-11/posts/07-switching-from-vagaro-or-glossgenius.md (prices confirmed against maravoa-landing origin/main compare text Nov 12; Metricool create failed Nov 12, retried Nov 13, see note) | 7203855157052392369 | scheduled |
 | 2026-11-22 Sun | instagram-2026-11/posts/08-no-show-hour.md (created Nov 13, see note) | -7563914234321744728 | scheduled |
+| 2026-11-23 Mon | instagram-2026-11-23/posts/01-rebook-at-checkout.md | -4069639774729125331 | draft |
+| 2026-11-25 Wed | instagram-2026-11-23/posts/02-my-openings.md | 6508009849814076050 | draft |
+| 2026-11-27 Fri | instagram-2026-11-23/posts/03-gift-cards.md | -4307742137640202784 | draft |
+| 2026-11-29 Sun | instagram-2026-11-23/posts/04-studio-calendar.md | -3854265663435748474 | draft |
+| 2026-11-30 Mon | instagram-2026-11-30/posts/05-revenue-by-professional.md | -4416905156426383285 | draft |
+| 2026-12-02 Wed | instagram-2026-11-30/posts/06-invite-a-stylist.md | 727322464035491506 | draft |
+| 2026-12-04 Fri | instagram-2026-11-30/posts/07-on-the-books.md | 2012404153589648458 | draft |
+| 2026-12-06 Sun | instagram-2026-11-30/posts/08-four-plans.md | -7807725445819121162 | draft |
+
+
+Nov 15, 2026: the eight rows from 2026-11-23 to 2026-12-06 were created as Metricool drafts (7:00 PM Central) by a Hal session worker for Marshall's Nov 19 to 28 trip, awaiting Marshall's approval.
 
 Week 1 moved up from Nov 17 to 22 to Nov 9 to 15 on Marshall's word ("Start tomorrow, right?", Nov 8); the posts' own files still say Week 1 / Week 2 and the old suggested days.
 
