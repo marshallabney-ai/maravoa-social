@@ -28,5 +28,12 @@ Added by the `hal-instagram-weekly` task (Marshall's "Yes, weekly", Nov 8, 2026)
 | @nanastitcheditt | St. Louis stylist and braider, 888 | Independent stylist, deposits and same-day fees | 2026-11-12 |
 | @hairflowstudio | Omaha, NE quick weave stylist, 302, books through Acuity | Independent stylist on a general scheduler | 2026-11-12 |
 | @lyric.collections_ | Crestwood, IL licensed stylist and braider, 1K, books through Acuity | Independent stylist on a general scheduler | 2026-11-12 |
+| @livnoftsgerhair | Liv Noftsger, Des Moines, IA lived-in color specialist, 3.2K | Independent colorist | 2026-11-19 |
+| @hairdesignsbyjac | Jaclyn, Des Moines area stylist and color artist, 15 years, 803 | Independent stylist, bridal and color | 2026-11-19 |
+| @crystal.b.hair | Crystal Bouquet, Des Moines stylist, cuts and vivid color, 855, books through GlossGenius | Independent stylist on a competitor tool | 2026-11-19 |
+| @createdbyabbyllc | Abby McReynolds, Ankeny, IA licensed stylist, 421, books through Square | Independent stylist (own LLC) on a general scheduler | 2026-11-19 |
+| @vanntasticschair | Wichita, KS master barber-stylist, 1.7K, own booking site | Independent barber-stylist | 2026-11-19 |
 
 Skipped Nov 12: @ellaraesuites (Ferguson, MO suite building; bio says the owner is 17, so not followed); @touchedbyt.tal (profile not found, handle likely truncated); large or out-of-region accounts from the same tags.
+
+Skipped Nov 19 (from #desmoineshairstylist and #wichitahairstylist): @styledxsophies, @lexscosjourney and @hair_by_haddie (salon employees or assistants, not independent); salon business accounts from the same tags.
